@@ -1,0 +1,17 @@
+body{
+    background-color: wheat;
+    color: black;
+}
+
+h1,h3,h4,h5,h6{
+    color: maroon;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    color:darkslategray;
+    font-weight:bold;
+}
